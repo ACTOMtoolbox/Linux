@@ -24,4 +24,4 @@ sudo apt-get install x11-xserver-utils
 xhost +
 ```
 
-This is also the main reason why this specific code doesn't work on Windows and Mac as they have different display settings, a workaround is in deveopment.
+This is also the main reason why this specific code doesn't work on Windows and Mac as they have different display settings, a workaround is in development.

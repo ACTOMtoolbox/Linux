@@ -17,7 +17,7 @@ We strongly encourage everyone downloading and using the DST code to register as
 
 **Troubleshooting:**
 
-If you get the error message: **couldn't connect to display "unix:0"** As the default settings of X11 (the system for using the display) only allows local users to print to screen, we need to change this to all users (including docker).
+If you get the error message: **couldn't connect to display** As the default settings of X11 (the system for using the display) only allows local users to print to screen, we need to change this to all users (including docker).
 
 ```
 sudo apt-get install x11-xserver-utils

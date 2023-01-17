@@ -23,3 +23,5 @@ If you get the error message: **couldn't connect to display** As the default set
 sudo apt-get install x11-xserver-utils
 xhost +
 ```
+
+X11 is also the main reason why code doesn't work on Windows and Mac as they have different display settings.

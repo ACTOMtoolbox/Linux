@@ -1,5 +1,5 @@
 # Linux
-Run on a linux machine with a graphical user interface for settings - Docker is required to run the toolbox.
+Run on a linux machine with a graphical user interface for settings - Docker is required to run the toolbox (https://docs.docker.com/engine/install/).
 
 The Decision Support Tool is open source and can be freely downloaded from https://github.com/ACTOMtoolbox, which also includes documentation and instructions. If used independently the developers accept no liability relating to the use of the DST. 
 

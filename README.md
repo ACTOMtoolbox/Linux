@@ -1,7 +1,7 @@
 # Linux  - Beta
 Run on a linux machine with a graphical user interface for settings - Docker is required to run the toolbox (https://docs.docker.com/engine/install/).
 
-With docker engine running, execute Run.sh in the folder you wish to run the toolbox in. This can be done through double clicking on the program, or typing the following into the terminal in the correct folder. This may require administrator privileges.
+With docker engine running, execute Run.sh in the folder you wish to run the toolbox in. This can be done through typing the following into the terminal in the correct folder. This may require administrator privileges.
 
 ```
 ./Run.sh

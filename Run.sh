@@ -10,4 +10,4 @@ docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=unix$DISPLAY --mount 
 rm -r Run-All.bat
 sh Run-All.sh
 mkdir -p logs
-mv -r Run-All.sh logs/Run-All.sh
+mv Run-All.sh logs/Run-All.sh

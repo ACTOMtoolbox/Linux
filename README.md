@@ -4,7 +4,7 @@ Run on a linux machine with a graphical user interface for settings - Docker is 
 With docker engine running, execute Run.sh in the folder you wish to run the toolbox in. This can be done through typing the following into the terminal in the correct folder. This may require administrator privileges.
 
 ```
-./Run.sh
+sh Run.sh
 ```
 
 The Decision Support Tool is open source and can be freely downloaded from https://github.com/ACTOMtoolbox, which also includes documentation and instructions. If used independently the developers accept no liability relating to the use of the DST. 
